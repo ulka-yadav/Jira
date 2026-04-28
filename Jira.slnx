@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
+  <Project Path="ApplicationLayer/ApplicationLayer.csproj" />
+  <Project Path="DataAccess/InfrastructureLayer.csproj" />
+  <Project Path="Jira/Jira.csproj" />
+  <Project Path="Models/DomainLayer.csproj" />
+</Solution>

@@ -1,0 +1,23 @@
+# --- Build Results ---
+[Bb]in/
+[Oo]bj/
+[Rr]elease/
+[Dd]ebug/
+
+# --- Visual Studio Specific ---
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+
+# --- NuGet Packages ---
+# Usually, you don't commit the packages folder because they are restored automatically.
+packages/
+# Exclude the project-specific lock files if you want
+project.lock.json
+project.assets.json
+
+# --- Operating System Files ---
+Thumbs.db
+.DS_Store
